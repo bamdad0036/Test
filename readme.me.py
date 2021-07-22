@@ -1,1 +1,3 @@
-print(print(2), print(4))
+print(add(1,3))
+print(1 +3)
+
